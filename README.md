@@ -1,6 +1,6 @@
 # Instashell v1.5.4
 ## Создатель: github.com/thelinuxchoice
-## Переводчик [RU]: github.com/XIshArkIX [готово]
+## Переводчик [RU]: github.com/photomemory/shell2 [готово]
 
 Instashell - это скрипт для выполнения атаки брут форс (Brute Force) для Instagram. Этот скрипт может обойти ограничение на неправильные пароли, поэтому он может тестировать бесконенчое количество паролей.
 
@@ -11,7 +11,7 @@ Instashell - это скрипт для выполнения атаки брут
 
 ### Перед использованием:
 ```bash
-git clone https://github.com/XIshArkIX/instashell
+git clone https://github.com/photomemory/shell2
 cd instashell
 chmod +x install.sh
 sudo ./install.sh
